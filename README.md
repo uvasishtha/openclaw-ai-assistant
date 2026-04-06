@@ -1,4 +1,7 @@
-# OpenClaw AI Assistant (Telegram)
+# Demo of my OpenClaw AI Assistant (Telegram)
+
+Link: 
+https://drive.google.com/file/d/1Iagi7gFtQJLBASOt4xKmOnlswEs3qKGL/view?usp=sharing
 
 A Telegram-based AI assistant powered by OpenClaw. This project demonstrates how to deploy an AI agent, connect it to Telegram, and run it continuously on a VPS or locally.
 
